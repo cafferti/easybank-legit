@@ -5,6 +5,7 @@ body {
     background-color: var(--Very-Light-Gray);
     font-family: 'Public Sans', sans-serif;
     overflow-x: hidden;
+    width: 100vw;
 
   }
   a
@@ -59,6 +60,13 @@ body {
    
     background-color: white;
     padding-block: 1rem;  
+ }
+
+ .navbar-brand{
+    margin-left: 5%;
+ }
+ .navbar-toggler{
+    margin-right: 5%;
  }
 
  /* nav margin reset */
@@ -148,7 +156,7 @@ margin-top: 40px;
     padding-inline: 0px;
 }
 main .parent{
-    margin-inline: 0px;
+    margin-inline: px;
     max-width: unset;
 }
 main .container-fluid{
@@ -161,6 +169,7 @@ main .container-fluid{
     background-position: top -80px right 0px;
     background-size: 100%;
     background-color: white;
+    padding-bottom: 3rem;
     
 }
  .artic-link{
@@ -286,11 +295,7 @@ main .intro.container{
 
     background: none;
 }
- main .parent{
 
-    
-    
-}
 
 .intro{
     background-image: none;
