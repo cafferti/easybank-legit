@@ -381,7 +381,7 @@ nav .navbar-nav a{
     margin-inline: unset;
 }
 .biographs img{
-    border-radius: 10px;
+    border-radius: 10px 10px 2px 2px;
 }
 .bio{
 padding-block-end: 6rem;
