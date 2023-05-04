@@ -504,6 +504,12 @@ ul.socials li:hover{
 ul.navbar-nav li {
     padding-inline: 0.3rem;
  }
+ .navbar-brand{
+    margin-left: 0%;
+ }
+ .navbar-toggler{
+    margin-right: 0%;
+ }
  }
  
  
