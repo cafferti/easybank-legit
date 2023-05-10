@@ -12,7 +12,7 @@ function active(){
     else{gphones.style.display = removelement;
         marginne.style.paddingTop = "0rem"
         blur.style.background = ""
-        blur.style.paddingBottom = "10rem"
+        blur.style.paddingBottom = "3rem"
     }
 
 }

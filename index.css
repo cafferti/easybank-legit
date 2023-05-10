@@ -72,16 +72,11 @@ body {
  /* nav margin reset */
  @media (min-width: 745px){
     nav .container{
-        max-width: ;
         margin-inline: 7%;
  }
-.
 }
 @media (min-width: 576px){
-    .container {
-        max-width: ;
 
-}
 
 }
 
@@ -141,7 +136,7 @@ main p{
 }
 main a{
     margin-top: 100px;
-    border-radius: 20px;
+    border-radius: 100px;
     padding-inline: 45px;
     padding-block: 15px;
     background: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
@@ -261,9 +256,6 @@ font-weight: 300;
     font-weight: 300;
     color: var(--Grayish-Blue);
 }
-.secondary .link-list {
-    
-}
 .footer-foot{
     padding-block: 3rem;
 }
@@ -272,7 +264,7 @@ font-weight: 300;
 }
 .inline .footer-foot> a{
     margin-top: 200px;
-    border-radius: 20px;
+    border-radius: 100px;
     padding-inline: 45px;
     padding-block: 15px;
     background: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
@@ -468,7 +460,7 @@ article h3{
 }
 .nav-link.greeny{
     display: inline;
-    border-radius: 20px;
+    border-radius: 100px;
     padding-inline: 45px;
     padding-block: 0.8rem;
     background: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
@@ -501,9 +493,6 @@ article h3{
 ul.socials li:hover{
     color: var(--Lime-Green);
 }
-ul.navbar-nav li {
-    padding-inline: 0.3rem;
- }
  .navbar-brand{
     margin-left: 0%;
  }
@@ -521,7 +510,3 @@ ul.navbar-nav li {
  
  }
  
-
-
-
-
